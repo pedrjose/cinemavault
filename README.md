@@ -31,3 +31,7 @@
 <p align="center">
   <img src="./cinemavault-mobile.png" />
 </p>
+
+## Prerequisites
+- Network access;
+- Installed browser.
