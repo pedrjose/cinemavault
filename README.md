@@ -13,3 +13,17 @@
   <img src="./cinemavault-2.png" />
   <img src="./cinemavault-3.png" />
 </p>
+
+## Features
+- Create account;
+- Search movies by word;
+- List movies by genre;
+- Access movies on YouTube.
+
+## Device Compatibility
+- Mobile (max-width:570px)
+- iPad (1024x768);
+- Laptop (1440x900);
+- Desktop (1680x1050);
+- Desktop (1920x1080);
+- Desktop (2560x1440).
