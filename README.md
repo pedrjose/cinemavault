@@ -16,9 +16,9 @@
 
 ## Features
 - Create account;
-- Search movies by word;
-- List movies by genre;
-- Access movies on YouTube.
+- Search content by word;
+- List content by genre;
+- Access content on YouTube.
 
 ## Device Compatibility
 - Mobile (max-width:570px)
