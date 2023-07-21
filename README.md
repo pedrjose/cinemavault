@@ -5,8 +5,8 @@
 </div>
 
 ## Code
-- [API](https://github.com/pedrjose/cinemavault-api): Back-end code repository;
-- [SPA](https://github.com/pedrjose/cinemavault-spa): Front-end code repository.
+- [__API__](https://github.com/pedrjose/cinemavault-api): Back-end code repository;
+- [__SPA__](https://github.com/pedrjose/cinemavault-spa): Front-end code repository.
 
 <p align="center">
   <img src="./cinemavault-1.png" />
