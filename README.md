@@ -7,3 +7,9 @@
 ## Code
 - [API](https://github.com/pedrjose/cinemavault-api): Back-end code repository;
 - [SPA](https://github.com/pedrjose/cinemavault-spa): Front-end code repository.
+
+<p align="center">
+  <img src="./cinemavault-1.png" />
+  <img src="./cinemavault-2.png" />
+  <img src="./cinemavault-3.png" />
+</p>
