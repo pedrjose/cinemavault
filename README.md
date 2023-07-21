@@ -35,3 +35,16 @@
 ## Prerequisites
 - Network access;
 - Installed browser.
+
+## Acknowledgments
+- __Free Domain Content Provider__: YouTube Channels that made the content used in the API available [Cult Cinema Classics 
+](https://www.youtube.com/@CultCinemaClassics) [FREE MOVIES](https://www.youtube.com/@FREEMOVIESYT/videos) [8thManDVD.com™ Cartoon Channel](https://www.youtube.com/@8thManDVDcom) [PUBLIC DOMAIN](https://www.youtube.com/@publicdomain7466) [Public domain cartoons](https://www.youtube.com/@publicdomain7466) [Public Domain Database](https://www.youtube.com/@publicdomaindatabase8902);
+- __Collaborators__: Thanks to my friends [Aryosmar](https://github.com/Aryosmar) and [Fabricio](https://github.com/fabricio54) who helped me register the movies in the API.
+
+## Warning
+The project was created for full-stack studies, and the servers used for hosting are free, resulting in slow response times and, consequently, slow navigation on the site.
+
+## Disclaimer
+This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with Free Content Providers or any of their affiliates and subsidiaries.
+
+Any trademarks, service marks, trade names, or other intellectual property rights mentioned or used in this project are the property of their respective owners.
