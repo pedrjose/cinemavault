@@ -21,7 +21,7 @@
 - Access content on YouTube.
 
 ## Device Compatibility
-- Mobile (max-width:570px)
+- Mobile (max-width:570px);
 - iPad (1024x768);
 - Laptop (1440x900);
 - Desktop (1680x1050);
