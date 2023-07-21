@@ -26,4 +26,8 @@
 - Laptop (1440x900);
 - Desktop (1680x1050);
 - Desktop (1920x1080);
-- Desktop (2560x1440).
+- Desktop (min-width:2560px).
+
+<p align="center">
+  <img src="./cinemavault-mobile.png" />
+</p>
