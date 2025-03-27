@@ -18,7 +18,16 @@
 - Create account;
 - Search content by word;
 - List content by genre;
-- Access content on YouTube.
+- Access content on YouTube;
+- Create favorites list;
+- Create "Watch Later" list;
+- Movie review forum;
+- Share movies on Instagram;
+- DevOps structure on AWS.
+
+## Technologies Used
+- **Front-end & Back-end:** TypeScript, MongoDB, Express.js, React, Java, Spring Boot
+- **Cloud & Infrastructure:** AWS, EC2
 
 ## Device Compatibility
 - Mobile (max-width:570px);
@@ -37,8 +46,7 @@
 - Installed browser.
 
 ## Acknowledgments
-- __Free Domain Content Provider__: YouTube Channels that made the content used in the API available [Cult Cinema Classics 
-](https://www.youtube.com/@CultCinemaClassics) [FREE MOVIES](https://www.youtube.com/@FREEMOVIESYT/videos) [8thManDVD.com™ Cartoon Channel](https://www.youtube.com/@8thManDVDcom) [PUBLIC DOMAIN](https://www.youtube.com/@publicdomain7466) [Public domain cartoons](https://www.youtube.com/@publicdomain7466) [Public Domain Database](https://www.youtube.com/@publicdomaindatabase8902);
+- __Free Domain Content Provider__: YouTube Channels that made the content used in the API available [Cult Cinema Classics](https://www.youtube.com/@CultCinemaClassics) [FREE MOVIES](https://www.youtube.com/@FREEMOVIESYT/videos) [8thManDVD.com™ Cartoon Channel](https://www.youtube.com/@8thManDVDcom) [PUBLIC DOMAIN](https://www.youtube.com/@publicdomain7466) [Public domain cartoons](https://www.youtube.com/@publicdomain7466) [Public Domain Database](https://www.youtube.com/@publicdomaindatabase8902);
 - __Collaborators__: Thanks to my friends [Aryosmar](https://github.com/Aryosmar) and [Fabricio](https://github.com/fabricio54) who helped me register the movies in the API.
 
 ## Warning
